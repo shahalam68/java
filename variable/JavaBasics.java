@@ -1,10 +1,13 @@
 public class JavaBasics {
     public static void main(String[] args) {
-        int a= 10;
-        int b = 20;
-        System.out.println(a);
+        byte b = 8;
         System.out.println(b);
-        String name = "Soykot Alam";
-        System.out.println(name);
+        char ch = 'a';
+        System.out.println(ch);
+        boolean var = true;
+        System.out.println(var);
+        float price = 100.0f ;
+        System.out.println(price);
+
     }
 }
