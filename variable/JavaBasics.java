@@ -15,8 +15,11 @@ public class JavaBasics {
         // float a = 25.12f;
         // int b = (int) a;
         // System.out.println(b);
-        char ch = 'a';
-        int number = ch;
-        System.out.println(number);
+        // char ch = 'a';
+        // int number = ch;
+        // System.out.println(number);
+        int a = 10;
+        int b = 2;
+        
     }
 }
